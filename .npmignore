@@ -1,0 +1,4 @@
+lib/
+babel/
+tsconfig.json
+.gitignore
