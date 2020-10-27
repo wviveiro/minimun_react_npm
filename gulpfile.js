@@ -1,5 +1,5 @@
 var gulp = require('gulp');
-var watch = require('gulp-watch');
+const {watch} = gulp;
 var sass = require('gulp-sass');
 var rename = require('gulp-rename');
 var replace = require('gulp-replace');
